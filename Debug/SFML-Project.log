@@ -1,0 +1,27 @@
+﻿  GamePause.cpp
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GamePause.cpp(28,131): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GamePause.cpp(28,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameView.cpp
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GameView.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GameView.cpp(65,122): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GameView.cpp(65,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GameView.cpp(148,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Dokumenty\Studia\PJC\Projects\SFML-Project\SFML-Project\GameView.cpp(148,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SFML-Project.vcxproj -> D:\Dokumenty\Studia\PJC\Projects\SFML-Project\Debug\SFML-Project.exe
